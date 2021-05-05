@@ -6,5 +6,6 @@ int x = 6;
 int z = 7;
 java.lang.System.out.println( x );
 java.lang.System.out.println( y );
+java.lang.System.out.println( z );
 }
 
